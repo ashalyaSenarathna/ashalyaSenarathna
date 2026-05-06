@@ -2,8 +2,8 @@
 <h3 align="center">Full-Stack Developer | MERN & Spring Boot Enthusiast | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashalyasenarthna&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ashalyasenarthna?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=ashalyaSenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ashalyaSenarathna?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -78,12 +78,12 @@ const ashalya = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashalyasenarthna&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashalyasenarthna&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashalyaSenarathna&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashalyaSenarathna&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashalyasenarthna&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashalyaSenarathna&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ const ashalya = {
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashalyasenarthna&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashalyaSenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
@@ -133,4 +133,4 @@ const ashalya = {
 
 ---
 
-<p align="center">⭐ From <a href="https://github.com/ashalyasenarthna">Ashalya Senarathna</a></p>
+<p align="center">⭐ From <a href="https://github.com/ashalyaSenarathna">Ashalya Senarathna</a></p>
